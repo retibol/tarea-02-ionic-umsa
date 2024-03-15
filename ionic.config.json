@@ -1,0 +1,7 @@
+{
+  "name": "tarea02_ionic_umsa",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
